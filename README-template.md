@@ -10,9 +10,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+    Well I properly learned how to add an image to a page, div id's, changing those styles with css
+    
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
+    Once I got stuck on it for like a GOOD WHILE after trying my own solution I used AI pretty much like a good search engine 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
